@@ -1,9 +1,9 @@
 This dataset contains records for 30 subjects. Using built-in tools of a smartphone (Samsung Galaxy S II), they were monitored across 6 different activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING).
 
-The original dataset and more details on the methodology can be found at this website:
+The original dataset and more details on the methodology can be found at this website: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-A number of metrics were recorded (561 in total). The file final_summarized_results.txt  contains the following: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
+A number of metrics were recorded (561 in total). The file final_summarized_results.txt  contains the following: 
 * The mean of all variables  *x* from the original dataset, where all *x* variables are means or standard deviations of some other variable. The variables being averaged are as follows:
 
 "tBodyAcc__mean__X"
